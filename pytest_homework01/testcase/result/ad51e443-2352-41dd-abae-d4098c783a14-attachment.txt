@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_calc.py:18 开始计算
+[32mINFO    [0m root:test_calc.py:22 结束计算
