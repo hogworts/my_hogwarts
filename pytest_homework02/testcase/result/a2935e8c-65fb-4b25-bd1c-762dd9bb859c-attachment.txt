@@ -1,0 +1,4 @@
+[32mINFO    [0m root:conftest.py:8 开始计算
+[32mINFO    [0m root:test_calc.py:45 开始计算-1--1
+[32mINFO    [0m root:test_calc.py:47 开始插入图片
+[32mINFO    [0m root:conftest.py:11 结束计算
