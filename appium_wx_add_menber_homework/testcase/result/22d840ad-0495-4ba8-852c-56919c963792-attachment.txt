@@ -1,0 +1,9 @@
+[32mINFO    [0m root:base_page.py:57 点击通讯录，进入到通讯录界面
+[32mINFO    [0m root:base_page.py:57 进入界面开始截屏
+[32mINFO    [0m root:base_page.py:57 开始滚动查找添加成员按钮，并点击
+[32mINFO    [0m root:base_page.py:57 开始截图
+[32mINFO    [0m root:base_page.py:57 选择手动添加按钮
+[32mINFO    [0m root:base_page.py:57 输入姓名
+[32mINFO    [0m root:base_page.py:57 输入电话
+[32mINFO    [0m root:base_page.py:57 开始截屏
+[32mINFO    [0m root:base_page.py:57 点击保存
